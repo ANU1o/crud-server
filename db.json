@@ -1,66 +1,55 @@
 {
   "participants": [
-    {
-      "id": "sam01",
-      "name": "Sam",
-      "userImg": "https://alchinlong.com/wp-content/uploads/2015/09/sample-profile.png",
-      "password": "Sam@123"
-    },
-    {
-      "id": "mathew01",
-      "name": "Mathew",
-      "userImg": "https://alchinlong.com/wp-content/uploads/2015/09/sample-profile.png",
-      "password": "Mathew@123"
-    },
-    {
-      "id": "tony01",
-      "name": "Tony",
-      "userImg": "https://cdn.dribbble.com/users/5534/screenshots/14230133/media/e2f853f8232acad78bf143c32f2f3a04.jpg?resize=400x0",
-      "password": "Tony@123"
-    },
-    {
-      "id": "pablo01",
-      "name": "Pablo",
-      "userImg": "https://www.profilepic.com/uploads/1/2/7/3/9/_12739/1273920210118072223_m.jpg",
-      "password": "Pablo@123"
-    },
-    {
-      "id": "swen01",
-      "name": "Swen",
-      "userImg": "https://images.unsplash.com/photo-1529665253569-6d01c0eaf7b6?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZmlsZXxlbnwwfHwwfHx8MA%3D%3D",
-      "password": "Swn@123"
-    },
-    {
-      "id": "3mjad",
-      "name": "Amjad",
-      "userImg": "https://i.pinimg.com/564x/c2/2f/a5/c22fa553d654cdbda930d419061e3aa8.jpg",
-      "password": "Amjad@123"
-    },
-    {
-      "id": "rami03",
-      "name": "Rami",
-      "userImg": "https://png.pngtree.com/thumb_back/fh260/background/20230612/pngtree-man-wearing-glasses-is-wearing-colorful-background-image_2905240.jpg",
-      "password": "Rami@123"
-    }
-  ],
+  {
+    "id": "sam01",
+    "name": "Sam",
+    "userImg": "https://alchinlong.com/wp-content/uploads/2015/09/sample-profile.png",
+    "password": "Sam@123"
+  },
+  {
+    "id": "mathew01",
+    "name": "Mathew",
+    "userImg": "https://alchinlong.com/wp-content/uploads/2015/09/sample-profile.png",
+    "password": "Mathew@123"
+  },
+  {
+    "id": "tony01",
+    "name": "Tony",
+    "userImg": "https://cdn.dribbble.com/users/5534/screenshots/14230133/media/e2f853f8232acad78bf143c32f2f3a04.jpg?resize=400x0",
+    "password": "Tony@123"
+  },
+  {
+    "id": "pablo01",
+    "name": "Pablo",
+    "userImg": "https://www.profilepic.com/uploads/1/2/7/3/9/_12739/1273920210118072223_m.jpg",
+    "password": "Pablo@123"
+  },
+  {
+    "id": "swen01",
+    "name": "Swen",
+    "userImg": "https://images.unsplash.com/photo-1529665253569-6d01c0eaf7b6?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZmlsZXxlbnwwfHwwfHx8MA%3D%3D",
+    "password": "Swn@123"
+  },
+  {
+    "id": "3mjad",
+    "name": "Amjad",
+    "userImg": "https://i.pinimg.com/564x/c2/2f/a5/c22fa553d654cdbda930d419061e3aa8.jpg",
+    "password": "Amjad@123"
+  },
+  {
+    "id": "rami03",
+    "name": "Rami",
+    "userImg": "https://png.pngtree.com/thumb_back/fh260/background/20230612/pngtree-man-wearing-glasses-is-wearing-colorful-background-image_2905240.jpg",
+    "password": "Rami@123"
+  },
+  {
+    "id": "Hari-Irah",
+    "name": "Hari",
+    "userImg": "https://wallpapers.com/images/hd/cool-profile-picture-87h46gcobjl5e4xu.jpg",
+    "password": "123456789"
+  }
+],
   "messages": [
-    {
-      "id": "1",
-      "senderName": "sam01",
-      "reciverName": "mathew01",
-      "content": "Hi u1"
-    },
-    {
-      "id": "2",
-      "senderName": "mathew01",
-      "reciverName": "sam01",
-      "content": "Hey u2, sup?"
-    },
-    {
-      "id": "3",
-      "senderName": "sam01",
-      "reciverName": "mathew01",
-      "content": "all gud buddy, this chat app is cool"
-    }
+    
   ]
 }
